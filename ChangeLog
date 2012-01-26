@@ -1,3 +1,0 @@
-2011-10-21 Markus Guenther <markus.guenther@e-net.info>
-
-	* Add a new case to class.tx_tcemainhooks.php. So that the hook works if we have no changes on the filter properties and the status is deleted
