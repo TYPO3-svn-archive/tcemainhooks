@@ -3,7 +3,7 @@
 ########################################################################
 # Extension Manager/Repository config file for ext "tcemainhooks".
 #
-# Auto generated 27-01-2012 12:55
+# Auto generated 27-01-2012 13:26
 #
 # Manual updates:
 # Only the data in the array - everything else is removed by next
@@ -30,7 +30,7 @@ This extension provides a simple interface that informs you on those changes. It
 	'clearCacheOnLoad' => 0,
 	'lockType' => '',
 	'author_company' => '',
-	'version' => '1.0.1',
+	'version' => '1.0.2',
 	'constraints' => array(
 		'depends' => array(
 		),
