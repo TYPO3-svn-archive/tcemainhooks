@@ -2,7 +2,7 @@
 /***************************************************************
 *  Copyright notice
 *
-*  (c) 2011 Michael Knabe <mk@e-netconsulting.com>
+*  (c) 2011 Michael Knabe <michael.knabe@e-net.info>
 *  All rights reserved
 *
 *  This script is part of the TYPO3 project. The TYPO3 project is
@@ -25,7 +25,7 @@
 /**
  * Hook methods for tcemain
  *
- * @author	Michael Knabe <mk@e-netconsulting.com>
+ * @author	Michael Knabe <michael.knabe@e-net.info>
  */
 class tx_tcemainhooks {
 	protected $hookObjects = array();

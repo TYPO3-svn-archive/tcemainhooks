@@ -6,7 +6,7 @@ require_once(t3lib_extMgm::extPath('tcemainhooks') . 'interface.tx_tcemainhooks_
  * Extend this class if you want to use the hooks
  * if you need to extend another class you can use the interface instead
  *
- * @author Michael Knabe <mk@e-netconsulting.com>
+ * @author Michael Knabe <michael.knabe@e-net.info>
  */
 abstract class tx_tcemainhooks_user_class implements tx_tcemainhooks_user_interface {
 	/**

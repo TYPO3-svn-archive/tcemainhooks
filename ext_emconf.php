@@ -16,7 +16,7 @@ $EM_CONF[$_EXTKEY] = array(
 This extension provides a simple interface that informs you on those changes. It provides you with two hooks , one is called before the dataset is written and one that is called afterwards.',
 	'category' => 'be',
 	'author' => 'Michael Knabe',
-	'author_email' => 'mk@e-netconsulting.com',
+	'author_email' => 'michael.knabe@e-net.info',
 	'shy' => '',
 	'dependencies' => '',
 	'conflicts' => '',

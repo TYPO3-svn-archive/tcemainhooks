@@ -4,14 +4,14 @@
  * Implement this interface if you want to use the hooks
  * If you don't want to implement both methods and don't need
  * to extend another class you can use the abstract class instead
- * 
- * @author Michael Knabe <mk@e-netconsulting.com>
+ *
+ * @author Michael Knabe <michael.knabe@e-net.info>
  */
 interface tx_tcemainhooks_user_interface {
 	/**
 	 * This method gets called whenever a record is changed in the backend.
 	 * When this method is called, the new data is not yet stored
-	 * 
+	 *
 	 * @param string $status What is done on the record (new, delete, update...)
 	 * @param string $table The table being updated
 	 * @param mixed $id The uid of the record (Warning: If $status is 'new' this is a string starting with NEW and no integer)
@@ -24,7 +24,7 @@ interface tx_tcemainhooks_user_interface {
 	/**
 	 * This method gets called whenever a record is changed in the backend.
 	 * When this method is called, the new data is not yet stored
-	 * 
+	 *
 	 * @param string $status What is done on the record (new, delete, update...)
 	 * @param string $table The table being updated
 	 * @param integer $id The uid of the record
